@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Merge banch 'Dev'/.idea/Merge banch 'Dev'.iml" filepath="$PROJECT_DIR$/../Merge banch 'Dev'/.idea/Merge banch 'Dev'.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WebBlog.iml" filepath="$PROJECT_DIR$/.idea/WebBlog.iml" />
     </modules>
   </component>
